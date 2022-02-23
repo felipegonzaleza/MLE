@@ -123,3 +123,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataset_kaggle/kz.csv
+dataset_kaggle/events.csv
+dataset_kaggle/dataset_kaggle.zip
+dataset_kaggle/2019-Oct.csv
+dataset_kaggle/2019-Nov.csv
+Week10 Model Deployment /Sequence_Models/Session_features.pkl
+Week10 Model Deployment /Sequence_Models/shopping.pkl
